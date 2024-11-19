@@ -8,3 +8,4 @@ orange
 cucumber
 tomato.
 strawberry
+lemon
