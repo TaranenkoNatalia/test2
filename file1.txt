@@ -7,3 +7,4 @@
 orange
 cucumber
 tomato.
+strawberry
